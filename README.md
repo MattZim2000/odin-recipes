@@ -1,2 +1,3 @@
 # odin-recipes
-This is the first project in the Project Odin Foundations course. The goal of this project is to build a simple interface for viewing recipes. After finishing this project I will have practiced HTML basics and the GIT workflow.
+Toy site used to display a few recipes while giving me useful HTML practice
+First project in the Odin Project Foundations course found here: [Odin Project Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)
